@@ -1,0 +1,2 @@
+rootProject.name = 'amazon-sdk-bytecode-test'
+include('app')
